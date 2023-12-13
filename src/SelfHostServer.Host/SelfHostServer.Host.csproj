@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNet.WebApi.SelfHost" Version="5.3.0" />
+    <PackageReference Include="AspNetWebApi.SelfHost" Version="4.0.20710" />
     <PackageReference Include="System.ServiceModel.Primitives" Version="6.2.0" />
   </ItemGroup>
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostServer.Host", "SelfHostServer.Host\SelfHostServer.Host.csproj", "{D9392B44-52B8-491F-9D9B-2CF0483B46C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostServer2.Host", "SelfHostServer2.Host\SelfHostServer2.Host.csproj", "{C2EEBDAA-C368-448E-9347-75B2BDDBFCD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9392B44-52B8-491F-9D9B-2CF0483B46C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9392B44-52B8-491F-9D9B-2CF0483B46C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9392B44-52B8-491F-9D9B-2CF0483B46C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9392B44-52B8-491F-9D9B-2CF0483B46C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EEBDAA-C368-448E-9347-75B2BDDBFCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EEBDAA-C368-448E-9347-75B2BDDBFCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EEBDAA-C368-448E-9347-75B2BDDBFCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EEBDAA-C368-448E-9347-75B2BDDBFCD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
